@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: black;
 }
 
 /* CSS de regalo */
@@ -43,6 +44,81 @@ input {
   transition: background-color 0.3s, box-shadow 0.3s;
   margin-bottom: 20px;
 }
+
+.red {
+  color: red;
+  border-color: red;
+}
+.redfull {
+  color: #000;
+  background-color: red;
+}
+.green {
+  color: green;
+  border-color: green;
+}
+.greenfull {
+  color: #000;
+  background-color: green;
+}
+.pink {
+  color: pink;
+  border-color: pink;
+}
+.pinkfull {
+  color: #000;
+  background-color: pink;
+}
+.yellow {
+  color: yellow;
+  border-color: yellow;
+}
+.yellowfull {
+  color: #000;
+  background-color: yellow;
+}
+
+.purple {
+  color: purple;
+  border-color: purple;
+}
+.purplefull {
+  color: #000;
+  background-color: purple;
+}
+.white {
+  color: white;
+  border-color: white;
+}
+.whitefull {
+  color: #000;
+  background-color: white;
+}
+.blue {
+  color: blue;
+  border-color: blue;
+}
+.bluefull {
+  color: #000;
+  background-color: blue;
+}
+.aqua {
+  color: aqua;
+  border-color: aqua;
+}
+.aquafull {
+  color: #000;
+  background-color: aqua;
+}
+.olive {
+  color: olive;
+  border-color: olive;
+}
+.olivefull {
+  color: #000;
+  background-color: olive;
+}
+
 
 
 
